@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="12-12-21basics/src"/>
+	<classpathentry kind="src" path="13-12-21 flowControl/src"/>
+	<classpathentry kind="src" path="14-12-21arrys/src"/>
+	<classpathentry kind="src" path="15-12-21exersies/src"/>
+	<classpathentry kind="src" path="16-12-21/src"/>
+	<classpathentry kind="src" path="19-12-21advenceClassFeatures/src"/>
+	<classpathentry kind="src" path="20-12-21/src"/>
+	<classpathentry kind="src" path="20-12-21exeptions/src"/>
+	<classpathentry kind="src" path="27-12-21/src"/>
+	<classpathentry kind="src" path="6-12-21first pro/src"/>
+	<classpathentry kind="src" path="8-11-21 targilim/src"/>
+	<classpathentry kind="src" path="9-12-21/src"/>
+	<classpathentry kind="src" path="BankProject/src"/>
+	<classpathentry kind="src" path="classes/src"/>
+	<classpathentry kind="src" path="Colection/src"/>
+	<classpathentry kind="src" path="Exeptions/src"/>
+	<classpathentry kind="src" path="FlowControl/src"/>
+	<classpathentry kind="src" path="JavaIO/src"/>
+	<classpathentry kind="src" path="JDBC/src"/>
+	<classpathentry kind="src" path="oopExam/src"/>
+	<classpathentry kind="src" path="programs"/>
+	<classpathentry kind="src" path="Thread/src"/>
+	<classpathentry kind="output" path="12-12-21basics/bin"/>
+</classpath>
